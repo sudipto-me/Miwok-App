@@ -4,4 +4,6 @@
     <string name="family_members">Family Members</string>
     <string name="colors">Colors</string>
     <string name="phrases">Phrases</string>
+    <string name="miwoktext">MiwokText</string>
+    <string name="englishtext">EnglishText</string>
 </resources>
